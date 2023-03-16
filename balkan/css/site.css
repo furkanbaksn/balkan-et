@@ -1,0 +1,70 @@
+.nav-item{
+    color: black; 
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Flex', sans-serif;
+}
+.nav-img{
+    width: 300%;
+}
+.navbar-brand{
+    width: 5%;
+}
+.navbar-nav{
+    margin-left: 10%;
+}
+header{
+    background-color: #ae2a2f;
+}
+.mid{
+    background-color: #ae2a2f;
+}
+.mid-p{
+    margin-top: 5%;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Flex', sans-serif;
+}
+.mid-h{
+    margin-top: 5%;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Dancing Script', cursive;
+
+}    
+.urunBeyazImg{
+    margin-top: 6%;
+}
+.mid-beyaz{
+    height: 100%;
+}
+.sucukImg{
+    width: 100%;
+}
+.kofteImg{
+    width: 100%;
+}
+.midSucuk{
+    height: 100%;
+}
+.bizkimiz{
+    background-color: #ae2a2f;
+}
+.btn{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Flex', sans-serif;
+}
+.second-h{
+    margin-top: 3%;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Dancing Script', cursive;
+}
+.kim-hs{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Dancing Script', cursive;
+}
+.kim-p{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Dancing Script', cursive;
+}
+small{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Flex', sans-serif;
+}
